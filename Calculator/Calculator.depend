@@ -156,3 +156,52 @@
 1364334092 source:/home/solace/CS2804/Calculator/token.cpp
 	"token.h"
 
+1364354783 source:c:\users\solace\documents\github\cs2804-calculator\calculator\calc_exception.cpp
+	"calc_exception.h"
+	<iostream>
+	<fstream>
+
+1364354783 c:\users\solace\documents\github\cs2804-calculator\calculator\calc_exception.h
+	<stdexcept>
+	<string>
+
+1364355888 source:c:\users\solace\documents\github\cs2804-calculator\calculator\calculator.cpp
+	"Calculator.h"
+
+1364354783 c:\users\solace\documents\github\cs2804-calculator\calculator\calculator.h
+	<iostream>
+	"scanner.h"
+	<sstream>
+	<stack>
+	<queue>
+
+1364355713 c:\users\solace\documents\github\cs2804-calculator\calculator\scanner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	"token.h"
+	"Fraction.h"
+	<queue>
+
+1364354783 c:\users\solace\documents\github\cs2804-calculator\calculator\token.h
+	<string>
+	<iostream>
+	<ostream>
+
+1364354783 c:\users\solace\documents\github\cs2804-calculator\calculator\fraction.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<sstream>
+
+1364354783 source:c:\users\solace\documents\github\cs2804-calculator\calculator\fraction.cpp
+	"Fraction.h"
+
+1364356022 source:c:\users\solace\documents\github\cs2804-calculator\calculator\scanner.cpp
+	"scanner.h"
+
+1364354783 source:c:\users\solace\documents\github\cs2804-calculator\calculator\token.cpp
+	"token.h"
+

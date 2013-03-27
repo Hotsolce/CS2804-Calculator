@@ -11,7 +11,7 @@ class Scanner
 {
     public:
         Scanner(): line(""), tokens(){};
-        Token getNextToken();
+        Token& getNextToken();
     protected:
     private:
         //unsigned int idx;

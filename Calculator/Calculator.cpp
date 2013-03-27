@@ -13,7 +13,8 @@ int main(){
 
         //Begin shunting algorithm
         std::cout<<"Begin parsing!"<<std::endl;
-        std::cout<<token<<std::endl;
+        std::cout<<"Token"<<token<<std::endl;
+        std::cout<<token.GetValue()<<std::endl;
         while(token.GetType()!=Type::EOL){
             if (token.GetType()==Type::NUMBER || token.GetType()==Type::FRACTION){
                 que.push(token);

@@ -1,7 +1,7 @@
 #include "scanner.h"
 
 
-Token Scanner::getNextToken(){
+Token& Scanner::getNextToken(){
     //std::ifstream file("program.txt");
 
 
@@ -11,6 +11,9 @@ Token Scanner::getNextToken(){
             std::cout<<"See ya!"<<std::endl;
             exit(EXIT_SUCCESS);
         }
+        else if(line.compare("\n")==0){
+            return getNextToken();
+        }
         else{
             if (!tokens.empty()){
                 Token toRet=tokens.front();
@@ -18,7 +21,7 @@ Token Scanner::getNextToken(){
                 return toRet;
             }
             std::cout<<"line:"<<line<<std::endl;
-            Token toRet=tokens.front();
+            Token& toRet=tokens.front();
             tokens.pop();
             return toRet;
         }
