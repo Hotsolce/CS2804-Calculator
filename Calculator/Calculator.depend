@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1359691544 source:f:\cs2804\calculator\scanner.cpp
+	"scanner.h"
+
+1359691544 "
+
+1359691416 f:\cs2804\calculator\scanner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	"token.h"
+
+1362193701 
+
+1359692692 f:\cs2804\calculator\token.h
+	<string>
+
+1359690712 source:f:\cs2804\calculator\token.cpp
+	"token.h"
+
+1359692642 source:f:\cs2804\calculator\calculator.cpp
+	"Calculator.h"
+
+1359694404 r.h"
+
+1359692650 f:\cs2804\calculator\calculator.h
+	<iostream>
+	"scanner.h"
+
+1362184846 source:c:\users\solace\desktop\calculator\calculator.cpp
+	"Calculator.h"
+
+1362184843 c:\users\solace\desktop\calculator\calculator.h
+	<iostream>
+	"scanner.h"
+	<sstream>
+	<stack>
+	<queue>
+
+1362193779 c:\users\solace\desktop\calculator\scanner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	"token.h"
+	"Fraction.h"
+
+1361980358 h"
+
+1362189697 c:\users\solace\desktop\calculator\token.h
+	<string>
+
+1362190743 source:c:\users\solace\desktop\calculator\scanner.cpp
+	"scanner.h"
+
+1362130840 source:c:\users\solace\desktop\calculator\token.cpp
+	"token.h"
+
+1359694404 source:/home/solace/Downloads/Calculator/Calculator.cpp
+	"Calculator.h"
+
+1359694324 /home/solace/Downloads/Calculator/Calculator.h
+	<iostream>
+	"scanner.h"
+	<sstream>
+
+1359691416 /home/solace/Downloads/Calculator/scanner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	"token.h"
+
+1359692692 /home/solace/Downloads/Calculator/token.h
+	<string>
+
+1360731258 source:/home/solace/Downloads/Calculator/Fraction.cpp
+	"Fraction.h"
+	<cmath>
+	<utility>
+	<sstream>
+
+1360731135 /home/solace/Downloads/Calculator/Fraction.h
+	<string>
+
+1359691544 source:/home/solace/Downloads/Calculator/scanner.cpp
+	"scanner.h"
+
+1359690712 source:/home/solace/Downloads/Calculator/token.cpp
+	"token.h"
+
+1361980358 source:c:\users\solace\desktop\calculator\fraction.cpp
+	"Fraction.h"
+
+1361916568 c:\users\solace\desktop\calculator\fraction.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<sstream>
+
+1362193744 source:c:\users\solace\desktop\calculator\calc_exception.cpp
+	"calc_exception.h"
+	<iostream>
+	<fstream>
+
+1362193701 c:\users\solace\desktop\calculator\calc_exception.h
+	<stdexcept>
+	<string>
+
+1364333368 source:/home/solace/CS2804/Calculator/Calculator.cpp
+	"Calculator.h"
+
+1362184843 /home/solace/CS2804/Calculator/Calculator.h
+	<iostream>
+	"scanner.h"
+	<sstream>
+	<stack>
+	<queue>
+
+1364333281 /home/solace/CS2804/Calculator/scanner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	"token.h"
+	"Fraction.h"
+	<queue>
+
+1364334089 /home/solace/CS2804/Calculator/token.h
+	<string>
+	<iostream>
+	<ostream>
+
+1361916568 /home/solace/CS2804/Calculator/Fraction.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<sstream>
+
+1361980358 source:/home/solace/CS2804/Calculator/Fraction.cpp
+	"Fraction.h"
+
+1362193744 source:/home/solace/CS2804/Calculator/calc_exception.cpp
+	"calc_exception.h"
+	<iostream>
+	<fstream>
+
+1362193701 /home/solace/CS2804/Calculator/calc_exception.h
+	<stdexcept>
+	<string>
+
+1364334206 source:/home/solace/CS2804/Calculator/scanner.cpp
+	"scanner.h"
+
+1364334092 source:/home/solace/CS2804/Calculator/token.cpp
+	"token.h"
+
